@@ -1,0 +1,4 @@
+version: "3.9"  # v1.27.0 からはオプション
+services:
+  redis:
+    image: redis
